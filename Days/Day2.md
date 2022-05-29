@@ -1,8 +1,10 @@
 # Day 2
 
-Reading SQL Websites and aquired Documentation.
-Will docoument SQL queries and Marddown syntax  
+Reading SQL Websites and aquired Documentation.  
+Will docoument SQL queries and Marddown syntax.
+
 ---
+
 Today I learned about the following SQL commands:
 - Insert  
 - Update  
