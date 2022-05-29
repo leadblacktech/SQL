@@ -12,4 +12,4 @@ Need to output results to a file
 You can view the db connector in the code/connector folder
 
 
-[db_connector](SQL/code/connector/db_connector.py)
+[db_connector](/SQL/code/connector/db_connector.py)
