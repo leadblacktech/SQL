@@ -9,7 +9,17 @@ Ran query to database using Python
 
 Need to output results to a file  
 
-You can view the db connector in the code/connector folder
+---
 
+View the db connector in the code/connector folder  
+lyou can also click the appropriate links below.  
 
-[db_connector](/code/connector/db_connector.py)
+---
+### db_connector
+<br>
+
+remote link to db_connector.py  
+[db_connector](/code/connector/db_connector.py)  
+
+local link to db_connector.py  
+[db_connector](/SQL/code/connector/db_connector.py)  
