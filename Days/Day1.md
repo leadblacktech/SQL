@@ -10,10 +10,8 @@ Ran query to database using Python
 Need to output results to a file  
 
 ---
-
 View the db connector in the code/connector folder  
-lyou can also click the appropriate links below.  
-
+You can also click the appropriate links below.  
 ---
 ### db_connector
 <br>
