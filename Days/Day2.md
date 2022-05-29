@@ -6,20 +6,20 @@ Will docoument SQL queries and Marddown syntax.
 ---
 
 Today I learned about the following SQL commands:
-- Insert  
-- Update  
-- Delete  
-- Select  
-- Alter  
-- Create  
-- Drop  
+- [✔️] Insert  
+- [✔️] Update  
+- [✔️] Delete  
+- [✔️] Select  
+- [✔️] Alter  
+- [✔️] Create  
+- [✔️] Drop  
 - Truncate  
-- Rename  
+- [✔️] Rename  
 - Grant  
 - Revoke  
 - Grant Option
-- Show  
-- Use  
+- [✔️] Show  
+- [✔️] Use  
 - Describe  
 - Explain  
 - Optimize  
